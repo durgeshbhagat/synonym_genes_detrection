@@ -2,17 +2,36 @@
     "acoA": [
         "yfjK"
     ],
+    "yfjK": [
+        "acoA"
+    ],
     "acoB": [
         "yfjJ"
+    ],
+    "yfjJ": [
+        "acoB"
     ],
     "acoC": [
         "yfjI"
     ],
+    "yfjI": [
+        "acoC"
+    ],
     "acoL": [
         "yfjH"
     ],
+    "yfjH": [
+        "acoL"
+    ],
     "levD": [
         "sacL"
+    ],
+    "sacL": [
+        "levD",
+        "levE",
+        "levF",
+        "levG",
+        "sacC"
     ],
     "levE": [
         "sacL"
@@ -29,8 +48,19 @@
     "ptb": [
         "bkd"
     ],
+    "bkd": [
+        "ptb",
+        "buk",
+        "lpdV",
+        "bkdAA",
+        "bkdAB",
+        "bkdB"
+    ],
     "bcd": [
         "yqiT"
+    ],
+    "yqiT": [
+        "bcd"
     ],
     "buk": [
         "bkd"
@@ -50,65 +80,129 @@
     "rocA": [
         "ipa-76d"
     ],
+    "ipa-76d": [
+        "rocA"
+    ],
     "rocB": [
         "ipa-77d"
+    ],
+    "ipa-77d": [
+        "rocB"
     ],
     "rocC": [
         "ipa-78d"
     ],
+    "ipa-78d": [
+        "rocC"
+    ],
     "rocG": [
         "ipa-75d"
+    ],
+    "ipa-75d": [
+        "rocG"
     ],
     "abrB": [
         "cpsX"
     ],
+    "cpsX": [
+        "abrB"
+    ],
     "addA": [
         "recE5"
+    ],
+    "recE5": [
+        "addA"
     ],
     "ahpC": [
         "perR"
     ],
+    "perR": [
+        "ahpC"
+    ],
     "ahpF": [
         "ndh"
+    ],
+    "ndh": [
+        "ahpF"
     ],
     "ald": [
         "spoVN"
     ],
+    "spoVN": [
+        "ald"
+    ],
     "amyE": [
         "amyA"
+    ],
+    "amyA": [
+        "amyE"
     ],
     "aprE": [
         "sprE"
     ],
+    "sprE": [
+        "aprE"
+    ],
     "araL": [
         "yseA"
+    ],
+    "yseA": [
+        "araL"
     ],
     "araM": [
         "yseB"
     ],
+    "yseB": [
+        "araM"
+    ],
     "araN": [
         "yseC"
+    ],
+    "yseC": [
+        "araN"
     ],
     "araP": [
         "yseD"
     ],
+    "yseD": [
+        "araP"
+    ],
     "araQ": [
         "yseE"
+    ],
+    "yseE": [
+        "araQ"
     ],
     "araE": [
         "yvbR"
     ],
+    "yvbR": [
+        "araE"
+    ],
     "araR": [
         "yvbS"
+    ],
+    "yvbS": [
+        "araR"
     ],
     "arfM": [
         "ywiD"
     ],
+    "ywiD": [
+        "arfM"
+    ],
     "argJ": [
         "argE"
     ],
+    "argE": [
+        "argJ"
+    ],
     "carA": [
         "cpa"
+    ],
+    "cpa": [
+        "carA",
+        "carB"
     ],
     "carB": [
         "cpa"
@@ -116,104 +210,214 @@
     "arsR": [
         "yqcJ"
     ],
+    "yqcJ": [
+        "arsR"
+    ],
     "arsB": [
         "yqcL"
+    ],
+    "yqcL": [
+        "arsB"
     ],
     "arsC": [
         "yqcM"
     ],
+    "yqcM": [
+        "arsC"
+    ],
     "spoVFA": [
         "dpaA"
+    ],
+    "dpaA": [
+        "spoVFA"
     ],
     "spoVFB": [
         "dpaB"
     ],
+    "dpaB": [
+        "spoVFB"
+    ],
     "dapG": [
         "lssD"
+    ],
+    "lssD": [
+        "dapG"
     ],
     "bglC": [
         "gluB, eglS"
     ],
+    "gluB, eglS": [
+        "bglC"
+    ],
     "bglP": [
         "sytA"
+    ],
+    "sytA": [
+        "bglP"
     ],
     "bglS": [
         "licS"
     ],
+    "licS": [
+        "bglS"
+    ],
     "blt": [
         "bmt"
+    ],
+    "bmt": [
+        "blt"
     ],
     "bltD": [
         "bmtD"
     ],
+    "bmtD": [
+        "bltD"
+    ],
     "bmr": [
         "bmr1"
+    ],
+    "bmr1": [
+        "bmr"
     ],
     "bsrB": [
         "BS203 RNA"
     ],
+    "BS203 RNA": [
+        "bsrB"
+    ],
     "yneI": [
         "yoxH"
+    ],
+    "yoxH": [
+        "yneI"
     ],
     "yneJ": [
         "yoxI"
     ],
+    "yoxI": [
+        "yneJ"
+    ],
     "ccpC": [
         "ykuM"
+    ],
+    "ykuM": [
+        "ccpC"
     ],
     "era": [
         "yqfH"
     ],
+    "yqfH": [
+        "era"
+    ],
     "cggR": [
         "yvbQ"
+    ],
+    "yvbQ": [
+        "cggR"
     ],
     "gapA": [
         "gap"
     ],
+    "gap": [
+        "gapA"
+    ],
     "pgk": [
         "gerG"
+    ],
+    "gerG": [
+        "pgk"
     ],
     "tpiA": [
         "tim"
     ],
+    "tim": [
+        "tpiA"
+    ],
     "citA": [
         "citA1"
+    ],
+    "citA1": [
+        "citA"
     ],
     "citG": [
         "fumC"
     ],
+    "fumC": [
+        "citG"
+    ],
     "citM": [
         "yflO"
     ],
+    "yflO": [
+        "citM"
+    ],
     "citZ": [
+        "citA2",
         "citA2"
     ],
+    "citA2": [
+        "citZ",
+        "citZ"
+    ],
     "icd": [
+        "citC",
         "citC"
     ],
+    "citC": [
+        "icd",
+        "icd"
+    ],
     "mdh": [
+        "citH",
         "citH"
+    ],
+    "citH": [
+        "mdh",
+        "mdh"
     ],
     "clpE": [
         "ykvH"
     ],
+    "ykvH": [
+        "clpE"
+    ],
     "clpP": [
         "yvdN"
+    ],
+    "yvdN": [
+        "clpP"
     ],
     "clpQ": [
         "codW"
     ],
+    "codW": [
+        "clpQ"
+    ],
     "clpY": [
         "codX"
+    ],
+    "codX": [
+        "clpY"
     ],
     "comA": [
         "comAA"
     ],
+    "comAA": [
+        "comA"
+    ],
     "yuxO": [
         "comAB"
     ],
+    "comAB": [
+        "yuxO"
+    ],
     "comEA": [
         "comD"
+    ],
+    "comD": [
+        "comEA",
+        "comEB",
+        "comEC"
     ],
     "comEB": [
         "comD"
@@ -224,265 +428,529 @@
     "yvyF": [
         "yviB"
     ],
+    "yviB": [
+        "yvyF"
+    ],
     "yvyG": [
         "yviC"
+    ],
+    "yviC": [
+        "yvyG"
     ],
     "flgL": [
         "yviD"
     ],
+    "yviD": [
+        "flgL"
+    ],
     "cssR": [
         "yvqA"
+    ],
+    "yvqA": [
+        "cssR"
     ],
     "cssS": [
         "yvqB"
     ],
+    "yvqB": [
+        "cssS"
+    ],
     "ctsR": [
         "yacG"
+    ],
+    "yacG": [
+        "ctsR"
     ],
     "mcsA": [
         "yacH"
     ],
+    "yacH": [
+        "mcsA"
+    ],
     "mcsB": [
         "yacI"
+    ],
+    "yacI": [
+        "mcsB"
     ],
     "clpC": [
         "mecB"
     ],
+    "mecB": [
+        "clpC"
+    ],
     "radA": [
         "yacJ"
+    ],
+    "yacJ": [
+        "radA"
     ],
     "cydA": [
         "yxkK"
     ],
+    "yxkK": [
+        "cydA"
+    ],
     "cydB": [
         "yxkL"
+    ],
+    "yxkL": [
+        "cydB"
     ],
     "cydC": [
         "yxkM"
     ],
+    "yxkM": [
+        "cydC"
+    ],
     "cydD": [
         "yxkN"
+    ],
+    "yxkN": [
+        "cydD"
     ],
     "cysP": [
         "ylnA"
     ],
+    "ylnA": [
+        "cysP"
+    ],
     "sat": [
         "ylnB"
+    ],
+    "ylnB": [
+        "sat"
     ],
     "cysC": [
         "ylnC"
     ],
+    "ylnC": [
+        "cysC"
+    ],
     "dctS": [
         "ydbF"
+    ],
+    "ydbF": [
+        "dctS"
     ],
     "dctR": [
         "ydbG"
     ],
+    "ydbG": [
+        "dctR"
+    ],
     "dctP": [
         "ydbH"
+    ],
+    "ydbH": [
+        "dctP"
     ],
     "degS": [
         "sacU"
     ],
+    "sacU": [
+        "degS"
+    ],
     "degU": [
         "iep"
+    ],
+    "iep": [
+        "degU"
     ],
     "des": [
         "yocE"
     ],
+    "yocE": [
+        "des"
+    ],
     "dhbA": [
         "entA"
+    ],
+    "entA": [
+        "dhbA"
     ],
     "dhbE": [
         "entE"
     ],
+    "entE": [
+        "dhbE"
+    ],
     "murB": [
         "ylxC"
+    ],
+    "ylxC": [
+        "murB"
     ],
     "divIB": [
         "tms-12"
     ],
+    "tms-12": [
+        "divIB"
+    ],
     "dnaA": [
         "dnaK"
+    ],
+    "dnaK": [
+        "dnaA",
+        "dnaN"
     ],
     "dnaN": [
         "dnaK"
     ],
     "lepA": [
+        "yqeQ",
         "yqeQ"
     ],
+    "yqeQ": [
+        "lepA",
+        "lepA"
+    ],
     "hemN": [
+        "yqeR",
         "yqeR"
     ],
+    "yqeR": [
+        "hemN",
+        "hemN"
+    ],
     "hrcA": [
+        "yqeS",
         "yqeS"
+    ],
+    "yqeS": [
+        "hrcA",
+        "hrcA"
     ],
     "dppA": [
         "dciAA"
     ],
+    "dciAA": [
+        "dppA"
+    ],
     "dppB": [
         "dciAB"
+    ],
+    "dciAB": [
+        "dppB"
     ],
     "dppC": [
         "dciAC"
     ],
+    "dciAC": [
+        "dppC"
+    ],
     "dppD": [
         "dciAD"
+    ],
+    "dciAD": [
+        "dppD"
     ],
     "dppE": [
         "dciAE"
     ],
+    "dciAE": [
+        "dppE"
+    ],
     "deoR": [
         "yxxC"
+    ],
+    "yxxC": [
+        "deoR"
     ],
     "drm": [
         "yqkN"
     ],
+    "yqkN": [
+        "drm"
+    ],
     "punA": [
         "pnp, yqkO, yqkO"
+    ],
+    "pnp, yqkO, yqkO": [
+        "punA"
     ],
     "fabHA": [
         "yjaX"
     ],
+    "yjaX": [
+        "fabHA"
+    ],
     "fabF": [
         "yjaY"
+    ],
+    "yjaY": [
+        "fabF"
     ],
     "fabL": [
         "ygaA"
     ],
+    "ygaA": [
+        "fabL"
+    ],
     "ylpC": [
         "fapR"
+    ],
+    "fapR": [
+        "ylpC"
     ],
     "plsX": [
         "ylpD"
     ],
+    "ylpD": [
+        "plsX"
+    ],
     "fabD": [
         "ylpE"
+    ],
+    "ylpE": [
+        "fabD"
     ],
     "fabG": [
         "ylpF"
     ],
+    "ylpF": [
+        "fabG"
+    ],
     "fbp": [
         "yydE"
+    ],
+    "yydE": [
+        "fbp"
     ],
     "fliG": [
         "flaA15"
     ],
+    "flaA15": [
+        "fliG"
+    ],
     "fliJ": [
         "cheF"
+    ],
+    "cheF": [
+        "fliJ"
     ],
     "flgE": [
         "flgG"
     ],
+    "flgG": [
+        "flgE"
+    ],
     "fliY": [
         "cheD"
+    ],
+    "cheD": [
+        "fliY",
+        "ylxK"
     ],
     "cheY": [
         "cheB"
     ],
     "cheB": [
+        "cheY",
         "cheL"
+    ],
+    "cheL": [
+        "cheB"
     ],
     "cheA": [
         "cheN"
     ],
+    "cheN": [
+        "cheA"
+    ],
     "cheC": [
         "ylxJ"
     ],
-    "cheD": [
-        "ylxK"
+    "ylxJ": [
+        "cheC"
+    ],
+    "ylxK": [
+        "cheD"
     ],
     "sigD": [
         "flaB"
     ],
+    "flaB": [
+        "sigD"
+    ],
     "ftsA": [
         "spoIIN"
+    ],
+    "spoIIN": [
+        "ftsA"
     ],
     "ftsZ": [
         "ts-1"
     ],
+    "ts-1": [
+        "ftsZ"
+    ],
     "fur": [
         "yqkL"
+    ],
+    "yqkL": [
+        "fur"
     ],
     "speD": [
         "ytcF"
     ],
+    "ytcF": [
+        "speD"
+    ],
     "gabP": [
         "nrg-21"
+    ],
+    "nrg-21": [
+        "gabP"
     ],
     "gabR": [
         "ycnF"
     ],
+    "ycnF": [
+        "gabR"
+    ],
     "gabT": [
         "ycnG"
+    ],
+    "ycnG": [
+        "gabT"
     ],
     "gabD": [
         "ycnH"
     ],
+    "ycnH": [
+        "gabD"
+    ],
     "gcaD": [
         "tms26"
+    ],
+    "tms26": [
+        "gcaD"
     ],
     "glpT": [
         "ybeE"
     ],
+    "ybeE": [
+        "glpT"
+    ],
     "glpQ": [
         "ybeD"
+    ],
+    "ybeD": [
+        "glpQ"
     ],
     "ybgJ": [
         "glsA"
     ],
+    "glsA": [
+        "ybgJ"
+    ],
     "ybgH": [
         "glnT"
+    ],
+    "glnT": [
+        "ybgH"
     ],
     "gltR": [
         "yrdL"
     ],
+    "yrdL": [
+        "gltR"
+    ],
     "cysE": [
         "cysA"
+    ],
+    "cysA": [
+        "cysE"
     ],
     "cysS": [
         "snpA"
     ],
+    "snpA": [
+        "cysS"
+    ],
     "glyA": [
         "ipc-34d"
+    ],
+    "ipc-34d": [
+        "glyA"
     ],
     "guaA": [
         "guaB"
     ],
+    "guaB": [
+        "guaA"
+    ],
     "guaD": [
         "yknA"
+    ],
+    "yknA": [
+        "guaD"
     ],
     "gudB": [
         "ypcA"
     ],
+    "ypcA": [
+        "gudB"
+    ],
     "gutP": [
         "ydjD"
+    ],
+    "ydjD": [
+        "gutP"
     ],
     "gyrA": [
         "nalA"
     ],
+    "nalA": [
+        "gyrA"
+    ],
     "hbs": [
         "dbpA"
+    ],
+    "dbpA": [
+        "hbs"
     ],
     "hemL": [
         "hemK"
     ],
+    "hemK": [
+        "hemL"
+    ],
     "hemZ": [
         "yhaV"
+    ],
+    "yhaV": [
+        "hemZ"
     ],
     "htpG": [
         "yxbB"
     ],
+    "yxbB": [
+        "htpG"
+    ],
     "htrA": [
         "ykdA"
+    ],
+    "ykdA": [
+        "htrA"
     ],
     "hutP": [
         "hutP1"
     ],
+    "hutP1": [
+        "hutP"
+    ],
     "ilvH": [
         "ilvN"
     ],
+    "ilvN": [
+        "ilvH"
+    ],
     "leuB": [
         "leuC"
+    ],
+    "leuC": [
+        "leuB"
     ]
 }
