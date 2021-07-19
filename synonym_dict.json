@@ -1,0 +1,488 @@
+{
+    "acoA": [
+        "yfjK"
+    ],
+    "acoB": [
+        "yfjJ"
+    ],
+    "acoC": [
+        "yfjI"
+    ],
+    "acoL": [
+        "yfjH"
+    ],
+    "levD": [
+        "sacL"
+    ],
+    "levE": [
+        "sacL"
+    ],
+    "levF": [
+        "sacL"
+    ],
+    "levG": [
+        "sacL"
+    ],
+    "sacC": [
+        "sacL"
+    ],
+    "ptb": [
+        "bkd"
+    ],
+    "bcd": [
+        "yqiT"
+    ],
+    "buk": [
+        "bkd"
+    ],
+    "lpdV": [
+        "bkd"
+    ],
+    "bkdAA": [
+        "bkd"
+    ],
+    "bkdAB": [
+        "bkd"
+    ],
+    "bkdB": [
+        "bkd"
+    ],
+    "rocA": [
+        "ipa-76d"
+    ],
+    "rocB": [
+        "ipa-77d"
+    ],
+    "rocC": [
+        "ipa-78d"
+    ],
+    "rocG": [
+        "ipa-75d"
+    ],
+    "abrB": [
+        "cpsX"
+    ],
+    "addA": [
+        "recE5"
+    ],
+    "ahpC": [
+        "perR"
+    ],
+    "ahpF": [
+        "ndh"
+    ],
+    "ald": [
+        "spoVN"
+    ],
+    "amyE": [
+        "amyA"
+    ],
+    "aprE": [
+        "sprE"
+    ],
+    "araL": [
+        "yseA"
+    ],
+    "araM": [
+        "yseB"
+    ],
+    "araN": [
+        "yseC"
+    ],
+    "araP": [
+        "yseD"
+    ],
+    "araQ": [
+        "yseE"
+    ],
+    "araE": [
+        "yvbR"
+    ],
+    "araR": [
+        "yvbS"
+    ],
+    "arfM": [
+        "ywiD"
+    ],
+    "argJ": [
+        "argE"
+    ],
+    "carA": [
+        "cpa"
+    ],
+    "carB": [
+        "cpa"
+    ],
+    "arsR": [
+        "yqcJ"
+    ],
+    "arsB": [
+        "yqcL"
+    ],
+    "arsC": [
+        "yqcM"
+    ],
+    "spoVFA": [
+        "dpaA"
+    ],
+    "spoVFB": [
+        "dpaB"
+    ],
+    "dapG": [
+        "lssD"
+    ],
+    "bglC": [
+        "gluB, eglS"
+    ],
+    "bglP": [
+        "sytA"
+    ],
+    "bglS": [
+        "licS"
+    ],
+    "blt": [
+        "bmt"
+    ],
+    "bltD": [
+        "bmtD"
+    ],
+    "bmr": [
+        "bmr1"
+    ],
+    "bsrB": [
+        "BS203 RNA"
+    ],
+    "yneI": [
+        "yoxH"
+    ],
+    "yneJ": [
+        "yoxI"
+    ],
+    "ccpC": [
+        "ykuM"
+    ],
+    "era": [
+        "yqfH"
+    ],
+    "cggR": [
+        "yvbQ"
+    ],
+    "gapA": [
+        "gap"
+    ],
+    "pgk": [
+        "gerG"
+    ],
+    "tpiA": [
+        "tim"
+    ],
+    "citA": [
+        "citA1"
+    ],
+    "citG": [
+        "fumC"
+    ],
+    "citM": [
+        "yflO"
+    ],
+    "citZ": [
+        "citA2"
+    ],
+    "icd": [
+        "citC"
+    ],
+    "mdh": [
+        "citH"
+    ],
+    "clpE": [
+        "ykvH"
+    ],
+    "clpP": [
+        "yvdN"
+    ],
+    "clpQ": [
+        "codW"
+    ],
+    "clpY": [
+        "codX"
+    ],
+    "comA": [
+        "comAA"
+    ],
+    "yuxO": [
+        "comAB"
+    ],
+    "comEA": [
+        "comD"
+    ],
+    "comEB": [
+        "comD"
+    ],
+    "comEC": [
+        "comD"
+    ],
+    "yvyF": [
+        "yviB"
+    ],
+    "yvyG": [
+        "yviC"
+    ],
+    "flgL": [
+        "yviD"
+    ],
+    "cssR": [
+        "yvqA"
+    ],
+    "cssS": [
+        "yvqB"
+    ],
+    "ctsR": [
+        "yacG"
+    ],
+    "mcsA": [
+        "yacH"
+    ],
+    "mcsB": [
+        "yacI"
+    ],
+    "clpC": [
+        "mecB"
+    ],
+    "radA": [
+        "yacJ"
+    ],
+    "cydA": [
+        "yxkK"
+    ],
+    "cydB": [
+        "yxkL"
+    ],
+    "cydC": [
+        "yxkM"
+    ],
+    "cydD": [
+        "yxkN"
+    ],
+    "cysP": [
+        "ylnA"
+    ],
+    "sat": [
+        "ylnB"
+    ],
+    "cysC": [
+        "ylnC"
+    ],
+    "dctS": [
+        "ydbF"
+    ],
+    "dctR": [
+        "ydbG"
+    ],
+    "dctP": [
+        "ydbH"
+    ],
+    "degS": [
+        "sacU"
+    ],
+    "degU": [
+        "iep"
+    ],
+    "des": [
+        "yocE"
+    ],
+    "dhbA": [
+        "entA"
+    ],
+    "dhbE": [
+        "entE"
+    ],
+    "murB": [
+        "ylxC"
+    ],
+    "divIB": [
+        "tms-12"
+    ],
+    "dnaA": [
+        "dnaK"
+    ],
+    "dnaN": [
+        "dnaK"
+    ],
+    "lepA": [
+        "yqeQ"
+    ],
+    "hemN": [
+        "yqeR"
+    ],
+    "hrcA": [
+        "yqeS"
+    ],
+    "dppA": [
+        "dciAA"
+    ],
+    "dppB": [
+        "dciAB"
+    ],
+    "dppC": [
+        "dciAC"
+    ],
+    "dppD": [
+        "dciAD"
+    ],
+    "dppE": [
+        "dciAE"
+    ],
+    "deoR": [
+        "yxxC"
+    ],
+    "drm": [
+        "yqkN"
+    ],
+    "punA": [
+        "pnp, yqkO, yqkO"
+    ],
+    "fabHA": [
+        "yjaX"
+    ],
+    "fabF": [
+        "yjaY"
+    ],
+    "fabL": [
+        "ygaA"
+    ],
+    "ylpC": [
+        "fapR"
+    ],
+    "plsX": [
+        "ylpD"
+    ],
+    "fabD": [
+        "ylpE"
+    ],
+    "fabG": [
+        "ylpF"
+    ],
+    "fbp": [
+        "yydE"
+    ],
+    "fliG": [
+        "flaA15"
+    ],
+    "fliJ": [
+        "cheF"
+    ],
+    "flgE": [
+        "flgG"
+    ],
+    "fliY": [
+        "cheD"
+    ],
+    "cheY": [
+        "cheB"
+    ],
+    "cheB": [
+        "cheL"
+    ],
+    "cheA": [
+        "cheN"
+    ],
+    "cheC": [
+        "ylxJ"
+    ],
+    "cheD": [
+        "ylxK"
+    ],
+    "sigD": [
+        "flaB"
+    ],
+    "ftsA": [
+        "spoIIN"
+    ],
+    "ftsZ": [
+        "ts-1"
+    ],
+    "fur": [
+        "yqkL"
+    ],
+    "speD": [
+        "ytcF"
+    ],
+    "gabP": [
+        "nrg-21"
+    ],
+    "gabR": [
+        "ycnF"
+    ],
+    "gabT": [
+        "ycnG"
+    ],
+    "gabD": [
+        "ycnH"
+    ],
+    "gcaD": [
+        "tms26"
+    ],
+    "glpT": [
+        "ybeE"
+    ],
+    "glpQ": [
+        "ybeD"
+    ],
+    "ybgJ": [
+        "glsA"
+    ],
+    "ybgH": [
+        "glnT"
+    ],
+    "gltR": [
+        "yrdL"
+    ],
+    "cysE": [
+        "cysA"
+    ],
+    "cysS": [
+        "snpA"
+    ],
+    "glyA": [
+        "ipc-34d"
+    ],
+    "guaA": [
+        "guaB"
+    ],
+    "guaD": [
+        "yknA"
+    ],
+    "gudB": [
+        "ypcA"
+    ],
+    "gutP": [
+        "ydjD"
+    ],
+    "gyrA": [
+        "nalA"
+    ],
+    "hbs": [
+        "dbpA"
+    ],
+    "hemL": [
+        "hemK"
+    ],
+    "hemZ": [
+        "yhaV"
+    ],
+    "htpG": [
+        "yxbB"
+    ],
+    "htrA": [
+        "ykdA"
+    ],
+    "hutP": [
+        "hutP1"
+    ],
+    "ilvH": [
+        "ilvN"
+    ],
+    "leuB": [
+        "leuC"
+    ]
+}
